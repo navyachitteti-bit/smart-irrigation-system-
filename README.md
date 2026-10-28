@@ -63,3 +63,5 @@ The Smart Irrigation System is a useful automation project that helps save water
 Student Project Team
 
 Department: Electronics and Communication Engineering (ECE)
+smart irrigation system : 
+https://github.com/navyachitteti-bit/smart-irrigation-system-.git
